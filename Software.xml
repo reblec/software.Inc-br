@@ -1,0 +1,605 @@
+<Software>
+	<CategoryDefault>Padrão</CategoryDefault>
+	<Software Name="Operating System">
+		<Name>Sistema operacional</Name>
+		<Description>O Sistema Operacional é a maior peça de software da Software Inc. A maioria dos softwares precisa de um sistema operacional para rodar. Quando as pessoas pararem de comprar uma linha de Sistemas Operacionais, também pararão de comprar software para eles.</Description>
+		<Features>
+			<Feature Name="Terminal">
+				<Name>Terminal</Name>
+				<Description>O terminal é a interface clássica baseada em texto entre o Sistema Operacional e o usuário.</Description>
+			</Feature>
+			<Feature Name="GUI">
+				<Name>Interface Gráfica</Name>
+				<Description>A interface gráfica do usuário permite que os usuários visualizem o que estão fazendo. Já não serão obrigados a introduzir uma linha de cada vez.</Description>
+			</Feature>
+			<Feature Name="3D rendering">
+				<Name>Renderização 3D</Name>
+			</Feature>
+			<Feature Name="Input system">
+				<Name>Sistema de Entrada</Name>
+				<Description>Permitir que o usuário interaja com o sistema operacional.</Description>
+			</Feature>
+			<Feature Name="Plug'n'Play">
+				<Name>Plug and Play</Name>
+				<Description>Permita que o usuário interaja com o sistema operacional de várias maneiras.</Description>
+			</Feature>
+			<Feature Name="Touch">
+				<Name>Touch</Name>
+				<Description>Deixe sua tela cheia de impressões digitais gordurosas.</Description>
+			</Feature>
+			<Feature Name="Multithreading">
+				<Name>Multithreading</Name>
+				<Description>Multithreading permite que o sistema operacional execute vários segmentos, ao mesmo tempo, alternando continuamente entre eles de forma inteligente, acelerando os aplicativos e confundindo os desenvolvedores até o fim.</Description>
+			</Feature>
+			<Feature Name="Multitasking">
+				<Name>Multitarefa</Name>
+				<Description>Deixe seus usuários fingir que podem multitarefa por ter várias aplicações abertas ao mesmo tempo.</Description>
+			</Feature>
+			<Feature Name="Networking">
+				<Name>Redes</Name>
+				<Description>Como anônimos vão se trollar do outro lado do mundo sem esta incrível função?</Description>
+			</Feature>
+			<Feature Name="Auto-update">
+				<Name>Atualização Automática</Name>
+				<Description>Afaste os bugs e malwares, porém incomode os usuários com drivers problemáticos e reinicializações repentinas.</Description>
+			</Feature>
+			<Feature Name="64-bit">
+				<Name>64-bit</Name>
+				<Description>Dobre o tamanho dos bits por registro e permita números maiores, arquivos maiores, a resposta da vida, etc.</Description>
+			</Feature>
+			<Feature Name="PC speaker">
+				<Name>Caixa de Som</Name>
+				<Description>Para todas as suas necessidades de beeping.</Description>
+			</Feature>
+			<Feature Name="8-bit audio">
+				<Name>Áudio de 8 bits</Name>
+			</Feature>
+			<Feature Name="HD audio">
+				<Name>Áudio em HD</Name>
+				<Description>Parecido com áudio de 8 bits, porém mais bits.</Description>
+			</Feature>
+		</Features>
+		<Categories>
+			<Category Name="Computer">
+				<Name>Computador</Name>
+				<Description>Para mesa.</Description>
+			</Category>
+			<Category Name="Console">
+				<Name>Console</Name>
+				<Description>Para TV.</Description>
+			</Category>
+			<Category Name="Phone">
+				<Name>Telefone</Name>
+				<Description>Para o bolso.</Description>
+			</Category>
+		</Categories>
+	</Software>
+	<Software Name="2D Editor">
+		<Name>Editor 2D</Name>
+		<Description>Programa que permite manipular matrizes bidimensionais de informação de cores.</Description>
+		<Features>
+			<Feature Name="Image rendering">
+				<Name>Processamento de Imagem</Name>
+				<Description>Efetivamente exibir uma imagem na tela.</Description>
+			</Feature>
+			<Feature Name="Pixel manipulation">
+				<Name>Manipulação de Pixels</Name>
+			</Feature>
+			<Feature Name="Advanced brushes">
+				<Name>Pinceis Avançados</Name>
+			</Feature>
+			<Feature Name="Image effects">
+				<Name>Efeitos de Imagem</Name>
+				<Description>Precisa de mais espirais.</Description>
+			</Feature>
+			<Feature Name="Cinematic filter">
+				<Name>Filtro de Cinema</Name>
+				<Description>Profissionalismo Instantâneo.</Description>
+			</Feature>
+			<Feature Name="Image compression">
+				<Name>Compressão de Imagem</Name>
+			</Feature>
+			<Feature Name="Video editing">
+				<Name>Edição de Vídeo</Name>
+			</Feature>
+			<Feature Name="Video codec">
+				<Name>Video Codec</Name>
+			</Feature>
+			<Feature Name="Stock library">
+				<Name>Banco de Imagens</Name>
+			</Feature>
+		</Features>
+		<Categories></Categories>
+	</Software>
+	<Software Name="3D Editor">
+		<Name>Editor 3D</Name>
+		<Description>Pontos no espaço, basicamente</Description>
+		<Features>
+			<Feature Name="Vertex editing">
+				<Name>Edição de Vértices</Name>
+				<Description>Mover pontos no espaço ao redor na tela</Description>
+			</Feature>
+			<Feature Name="Rendering">
+				<Name>Renderização</Name>
+				<Description>Processa os pontos em uma imagem</Description>
+			</Feature>
+			<Feature Name="Animation">
+				<Name>Animação</Name>
+				<Description>Faça os pontos se moverem</Description>
+			</Feature>
+			<Feature Name="Sculpting">
+				<Name>Esculpir</Name>
+				<Description>Finja que os pontos são argila</Description>
+			</Feature>
+			<Feature Name="Voxel sculpting">
+				<Name>Esculpir Voxel</Name>
+				<Description>Tudo é um grade ponto</Description>
+			</Feature>
+			<Feature Name="Physics">
+				<Name>Física</Name>
+				<Description>Faça os pontos interagirem</Description>
+			</Feature>
+			<Feature Name="Realistic hair">
+				<Name>Cabelo Realista</Name>
+				<Description>Faça linhas entre os pontos</Description>
+			</Feature>
+			<Feature Name="Particles">
+				<Name>Partículas</Name>
+				<Description>Pulverize pontos todo o lugar</Description>
+			</Feature>
+			<Feature Name="Liquid simulation">
+				<Name>Simulação de Líquidos</Name>
+				<Description>Derramar pontos em todo lugar</Description>
+			</Feature>
+			<Feature Name="PBR">
+				<Name>PBR</Name>
+				<Description>Processamento com base física simula fótons reagindo com os pontos</Description>
+			</Feature>
+			<Feature Name="Distributed rendering">
+				<Name>Processamento Distribuído</Name>
+				<Description>Processar os pontos em uma imagem em muitos computadores ao mesmo tempo</Description>
+			</Feature>
+		</Features>
+		<Categories></Categories>
+	</Software>
+	<Software Name="Audio Tool">
+		<Name>Ferramenta de áudio</Name>
+		<Description>Uma ferramenta de áudio serve para gravar e misturar efeitos sonoros e música.</Description>
+		<Features>
+			<Feature Name="Audio playback">
+				<Name>Reprodução de Áudio</Name>
+			</Feature>
+			<Feature Name="Recording">
+				<Name>Gravação</Name>
+			</Feature>
+			<Feature Name="Music editor">
+				<Name>Editor de Música</Name>
+			</Feature>
+			<Feature Name="Virtual instruments">
+				<Name>Instrumentos Virtuais</Name>
+				<Description>Violão? Teclado MIDI. Violino? Teclado MIDI. Bateria? Teclado MIDI. Saxofone? Exatamente!</Description>
+			</Feature>
+			<Feature Name="Sound library">
+				<Name>Biblioteca de Sons</Name>
+			</Feature>
+			<Feature Name="Instrument library">
+				<Name>Biblioteca de Instrumentos</Name>
+			</Feature>
+			<Feature Name="Autotune">
+				<Name>Autotune</Name>
+				<Description>Isso é uma coisa ...</Description>
+			</Feature>
+			<Feature Name="Audio compression">
+				<Name>Compressão de Áudio</Name>
+			</Feature>
+		</Features>
+		<Categories></Categories>
+	</Software>
+	<Software Name="Game Engine">
+		<Name>Game Engine</Name>
+		<Description>O Game Engine é o que motor de um jogo. Ele contém tudo o necessário para um jogo, exceto a criatividade.</Description>
+		<Features>
+			<Feature Name="Text-based">
+				<Name>Baseado em Texto</Name>
+			</Feature>
+			<Feature Name="2D rendering">
+				<Name>Renderização 2D</Name>
+			</Feature>
+			<Feature Name="Visual editor">
+				<Name>Editor Visual</Name>
+				<Description>Arrastar e soltar é incrível.</Description>
+			</Feature>
+			<Feature Name="2D assets">
+				<Name>Recurso 2D</Name>
+				<Description>Ajude o desenvolvedor juntando alguns recursos pré-embalados.</Description>
+			</Feature>
+			<Feature Name="3D rendering">
+				<Name>Renderização 3D</Name>
+			</Feature>
+			<Feature Name="3D assets">
+				<Name>Recurso 3D</Name>
+				<Description>Igual ao recurso 2D, porém com uma dimensão extra.</Description>
+			</Feature>
+			<Feature Name="VR">
+				<Name>VR</Name>
+				<Description>Realidade virtual.</Description>
+			</Feature>
+			<Feature Name="Advanced shaders">
+				<Name>Sombras Avançadas</Name>
+				<Description>Nem tudo tem que ser liso!</Description>
+			</Feature>
+			<Feature Name="Shadows">
+				<Name>Sombras</Name>
+				<Description>Um recurso muito CRIATIVO!</Description>
+			</Feature>
+			<Feature Name="PC speaker">
+				<Name>Sons</Name>
+			</Feature>
+			<Feature Name="8-bit audio">
+				<Name>Áudios em 8-bit</Name>
+			</Feature>
+			<Feature Name="Audio assets">
+				<Name>Recuros de Áudios</Name>
+			</Feature>
+			<Feature Name="HD audio">
+				<Name>Áudios em HD</Name>
+			</Feature>
+			<Feature Name="Networking">
+				<Name>Rede</Name>
+			</Feature>
+			<Feature Name="Physics">
+				<Name>Física</Name>
+			</Feature>
+			<Feature Name="Scripting">
+				<Name>Script</Name>
+				<Description>Separar a lógica do jogo da lógica lógica.</Description>
+			</Feature>
+			<Feature Name="Visual scripting">
+				<Name>Script Visual</Name>
+				<Description>É como programar, porém você usa um mouse extra.</Description>
+			</Feature>
+		</Features>
+		<Categories></Categories>
+	</Software>
+	<Software Name="Game">
+		<Name>Game</Name>
+		<Description>Arte interativa.</Description>
+		<Features>
+			<Feature Name="Text-based">
+				<Name>Baseado em Texto</Name>
+				<Description>Faça o jogador digitar um romance para completar o jogo.</Description>
+			</Feature>
+			<Feature Name="2D graphics">
+				<Name>Gráficos 2D</Name>
+			</Feature>
+			<Feature Name="3D graphics">
+				<Name>Gráficos 3D</Name>
+			</Feature>
+			<Feature Name="VR">
+				<Name>VR</Name>
+				<Description>Realidade virtual.</Description>
+			</Feature>
+			<Feature Name="Physics">
+				<Name>Física</Name>
+				<Description>Objetos animados.</Description>
+			</Feature>
+			<Feature Name="Music">
+				<Name>Música</Name>
+			</Feature>
+			<Feature Name="Dialog">
+				<Name>Diálogo</Name>
+			</Feature>
+			<Feature Name="Open world">
+				<Name>Mundo Aberto</Name>
+			</Feature>
+			<Feature Name="AI">
+				<Name>AI</Name>
+			</Feature>
+			<Feature Name="Local multiplayer">
+				<Name>Local Multiplayer</Name>
+			</Feature>
+			<Feature Name="Multiplayer">
+				<Name>Multiplayer</Name>
+				<Description>Facilitar os gritos obscenos de adolescentes para todo o mundo.</Description>
+			</Feature>
+			<Feature Name="MMO">
+				<Name>MMO</Name>
+			</Feature>
+			<Feature Name="Mod support">
+				<Name>Suporte a Mod</Name>
+				<Description>Voce permite que façam mod do seu jogo.</Description>
+			</Feature>
+			<Feature Name="Touch support">
+				<Name>Suporte ao Toque</Name>
+			</Feature>
+			<Feature Name="Advanced input">
+				<Name>Entrada Avançada</Name>
+				<Description>Volantes,joysticks, etc.</Description>
+			</Feature>
+			<Feature Name="Cutscenes">
+				<Name>Cutscenes</Name>
+			</Feature>
+			<Feature Name="Advanced cutscenes">
+				<Name>Cutscenes Avançadas</Name>
+				<Description>Reflita as escolhas dos jogadores na história, renderizando cutscenes em tempo real.</Description>
+			</Feature>
+			<Feature Name="Motion capture">
+				<Name>Captura de Movimento</Name>
+			</Feature>
+		</Features>
+		<Categories>
+			<Category Name="RPG">
+				<Name>RPG</Name>
+				<Description>"Jogo de Interpretação de Papéis".</Description>
+			</Category>
+			<Category Name="Adventure">
+				<Name>Aventura</Name>
+			</Category>
+			<Category Name="Simulation">
+				<Name>Simulação</Name>
+				<Description>Você está jogando um!</Description>
+			</Category>
+			<Category Name="Sports">
+				<Name>Esportes</Name>
+			</Category>
+			<Category Name="RTS">
+				<Name>RTS</Name>
+				<Description>Estratégia em Tempo Real</Description>
+			</Category>
+			<Category Name="FPS">
+				<Name>FPS</Name>
+				<Description>Tiro em Primeira Pessoa</Description>
+			</Category>
+		</Categories>
+	</Software>
+	<Software Name="Office Software">
+		<Name>Progama para Escritórios</Name>
+		<Description></Description>
+		<Features>
+			<Feature Name="Word processor">
+				<Name>Processador de Palavras</Name>
+			</Feature>
+			<Feature Name="WYSIWYG">
+				<Name>WYSIWYG</Name>
+				<Description>O que você vê é o que você obtém(O que escrever vai ser o que será impresso).</Description>
+			</Feature>
+			<Feature Name="Spellcheck">
+				<Name>Verificação Ortográfica</Name>
+				<Description>Faça com que todos pareçam inteligentes.</Description>
+			</Feature>
+			<Feature Name="Auto layout">
+				<Name>Layout Automático</Name>
+				<Description>Ou seja, passe 30 minutos tentando fazer com que a imagem caiba no lugar certo.</Description>
+			</Feature>
+			<Feature Name="Spreadsheet">
+				<Name>Planilha</Name>
+			</Feature>
+			<Feature Name="Custom functions">
+				<Name>Funções Personalizadas</Name>
+				<Description>Uma planilha pode sempre ficar mais complicada.</Description>
+			</Feature>
+			<Feature Name="Charts">
+				<Name>Gráficos</Name>
+			</Feature>
+			<Feature Name="Presentation">
+				<Name>Apresentação</Name>
+			</Feature>
+			<Feature Name="Vector graphics">
+				<Name>Gráficos Vetoriais</Name>
+				<Description>Linhas, caixas e círculos, basicamente.</Description>
+			</Feature>
+			<Feature Name="Animations">
+				<Name>Animações</Name>
+				<Description>Que melhor maneira de fazer sua apresentação parecer brega?</Description>
+			</Feature>
+			<Feature Name="Sound effects">
+				<Name>Efeitos Sonoros</Name>
+				<Description>E este é o nosso lucro projetado para o próximo ano fiscal... *pew* *pew*...</Description>
+			</Feature>
+			<Feature Name="Templates">
+				<Name>Templates</Name>
+			</Feature>
+			<Feature Name="Clipart">
+				<Name>Clipart</Name>
+			</Feature>
+			<Feature Name="Scripting">
+				<Name>Script</Name>
+				<Description>Porque você nunca poderar satisfazer todo mundo.</Description>
+			</Feature>
+			<Feature Name="Online backup">
+				<Name>Backup Online</Name>
+			</Feature>
+		</Features>
+		<Categories></Categories>
+	</Software>
+	<Software Name="CMS">
+		<Name>CMS</Name>
+		<Description>Um sistema de gerenciamento de conteúdo é usado principalmente para uma tarefa muito específica de gerenciamento de conteúdo.</Description>
+		<Features>
+			<Feature Name="File management">
+				<Name>Gerenciamento de Arquivos</Name>
+			</Feature>
+			<Feature Name="Visualization tools">
+				<Name>Ferramentas de Visualização </Name>
+			</Feature>
+			<Feature Name="WYSIWYG">
+				<Name>WYSIWYG</Name>
+				<Description>O que você vê é o que você obtém(O que escrever vai ser o que será impresso).</Description>
+			</Feature>
+			<Feature Name="Community">
+				<Name>Comunidade</Name>
+				<Description>A Internet precisa de mais seções de comentário...</Description>
+			</Feature>
+			<Feature Name="Widgets">
+				<Name>Widgets</Name>
+				<Description>Também conhecido como botões de mídias sociais.</Description>
+			</Feature>
+			<Feature Name="Themes">
+				<Name>Temas</Name>
+			</Feature>
+			<Feature Name="GUI">
+				<Name>Interface Gráfica</Name>
+				<Description>Interface Gráfica do Usuário</Description>
+			</Feature>
+			<Feature Name="Bank integration">
+				<Name>Integração com Banco</Name>
+			</Feature>
+			<Feature Name="Document generation">
+				<Name>Produção de Documentos</Name>
+				<Description>Faturas para todo mundo.</Description>
+			</Feature>
+			<Feature Name="Statistics">
+				<Name>Estatisticas</Name>
+			</Feature>
+			<Feature Name="User hierarchy">
+				<Name>Hierarquia de Usuários</Name>
+			</Feature>
+			<Feature Name="Work delegation">
+				<Name>Delegação de Trabalho</Name>
+				<Description>Alternativamente, correr pelo escritório gritando tarefas para as pessoas.</Description>
+			</Feature>
+			<Feature Name="Synchronization">
+				<Name>Sincronização</Name>
+				<Description>Ou envie disquete de vez em quando...</Description>
+			</Feature>
+		</Features>
+		<Categories>
+			<Category Name="Web Publishing">
+				<Name>Publicação na Web</Name>
+				<Description>Evita forçar os blogueiros a fazerem web programação.</Description>
+			</Category>
+			<Category Name="Financial">
+				<Name>Financeiro</Name>
+				<Description>Ajuda as empresas a manter o controle do seu dinheiro.</Description>
+			</Category>
+			<Category Name="Workflow">
+				<Name>Fluxo de Trabalho</Name>
+				<Description>O quadro branco virtual.</Description>
+			</Category>
+		</Categories>
+	</Software>
+	<Software Name="Antivirus">
+		<Name>Antivírus</Name>
+		<Description>Protegendo computadores de "piratas" digitais, desde que se tornou rentável fazer isso.</Description>
+		<Features>
+			<Feature Name="File scan">
+				<Name>Escanear Arquivos</Name>
+			</Feature>
+			<Feature Name="User interface">
+				<Name>Interface de Usuário</Name>
+				<Description>Tornar mais fácil para o usuário gerenciar seu tratamento de vírus.</Description>
+			</Feature>
+			<Feature Name="Firewall">
+				<Name>Firewall</Name>
+			</Feature>
+			<Feature Name="Background scan">
+				<Name>Escanear em Segundo Plano</Name>
+				<Description>Procure por vírus em segundo plano causando bloqueios de arquivos hilariantemente aleatórios.</Description>
+			</Feature>
+			<Feature Name="Mail scan">
+				<Name>Escanear Emails</Name>
+				<Description>Há sempre espaço para ampliação.</Description>
+			</Feature>
+			<Feature Name="Virus database">
+				<Name>Banco de Dados de Vírus</Name>
+				<Description>Manter automaticamente as definições de vírus atualizadas.</Description>
+			</Feature>
+		</Features>
+		<Categories></Categories>
+	</Software>
+	<Software Name="Logistics Application">
+		<Name>Aplicativos para Logística</Name>
+		<Description></Description>
+		<Features>
+			<Feature Name="Commandline">
+				<Name>Painel de Comando</Name>
+			</Feature>
+			<Feature Name="GUI">
+				<Name>Interface Gráfica</Name>
+			</Feature>
+			<Feature Name="Database">
+				<Name>Banco de Dados</Name>
+			</Feature>
+			<Feature Name="Third-party integration">
+				<Name>Integração Externa</Name>
+			</Feature>
+		</Features>
+		<Categories></Categories>
+	</Software>
+	<Software Name="Website">
+		<Name>Website</Name>
+		<Description></Description>
+		<Features>
+			<Feature Name="Static pages">
+				<Name>Páginas Estáticas</Name>
+			</Feature>
+			<Feature Name="Image gallery">
+				<Name>Galeria de Imagens</Name>
+			</Feature>
+			<Feature Name="Dynamic pages">
+				<Name>Páginas Dinâmicas</Name>
+			</Feature>
+			<Feature Name="Store">
+				<Name>Loja</Name>
+			</Feature>
+			<Feature Name="Database">
+				<Name>Banco de Dados</Name>
+			</Feature>
+		</Features>
+		<Categories></Categories>
+	</Software>
+	<Software Name="Game Assets">
+		<Name>Recuros de Jogos</Name>
+		<Description></Description>
+		<Features>
+			<Feature Name="2D art">
+				<Name>Arte 2D</Name>
+			</Feature>
+			<Feature Name="User interface graphics">
+				<Name>Interface Gráfica do Usuário</Name>
+			</Feature>
+			<Feature Name="Sound effects">
+				<Name>Efeitos Sonoros</Name>
+			</Feature>
+			<Feature Name="Music">
+				<Name>Música</Name>
+			</Feature>
+			<Feature Name="Written Dialogue">
+				<Name>Diálogo Escrito </Name>
+			</Feature>
+			<Feature Name="3D models">
+				<Name>Modelos 3D</Name>
+			</Feature>
+		</Features>
+		<Categories></Categories>
+	</Software>
+	<Software Name="Embedded System">
+		<Name>Sistema Embutido</Name>
+		<Description></Description>
+		<Features>
+			<Feature Name="Clock">
+				<Name>Relogio</Name>
+			</Feature>
+			<Feature Name="Thermostat">
+				<Name>Termostato</Name>
+			</Feature>
+			<Feature Name="Motor">
+				<Name>Motor</Name>
+			</Feature>
+			<Feature Name="User interface">
+				<Name>Interface de Usuário</Name>
+			</Feature>
+			<Feature Name="GPS">
+				<Name>GPS</Name>
+			</Feature>
+			<Feature Name="Networking">
+				<Name>Redes</Name>
+			</Feature>
+		</Features>
+		<Categories></Categories>
+	</Software>
+	<Feature Name="QA">
+		<Name>G.Q.</Name>
+		<Description>Use Garantia de Qualidade para liberar um produto mais estável ou conserte os bugs assim os encontrar. Para evitar que seus clientes fiquem irritados.</Description>
+	</Feature>
+</Software>
